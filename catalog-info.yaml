@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: template-masstransit-kafka
+  annotations:
+    github.com/project-slug: inmWill/template-masstransit-kafka
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
